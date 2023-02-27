@@ -1,0 +1,12 @@
+Git is a distributed version control system that
+allows developers to manage changes to their code over time,
+including tracking changes, creating branches,
+and merging changes between branches. Git is a command-line 
+tool that runs on your local machine and can be used for version control in any project, 
+not just software development.
+
+GitHub, on the other hand,
+is a web-based platform that provides hosting for Git repositories.
+It allows users to store their Git repositories in the cloud and collaborate with
+others by sharing code and contributing to existing projects. GitHub also provides
+a user-friendly interface for managing Git repositories, including pull requests, issues, and wikis.
